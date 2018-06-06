@@ -1,0 +1,17 @@
+/Users/bkila/Desktop/RESTauranter/bin/Debug/netcoreapp1.1/RESTauranter.deps.json
+/Users/bkila/Desktop/RESTauranter/bin/Debug/netcoreapp1.1/RESTauranter.runtimeconfig.json
+/Users/bkila/Desktop/RESTauranter/bin/Debug/netcoreapp1.1/RESTauranter.runtimeconfig.dev.json
+/Users/bkila/Desktop/RESTauranter/obj/Debug/netcoreapp1.1/RESTauranter.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/RESTauranter/obj/Debug/netcoreapp1.1/RESTauranter.AssemblyInfo.cs
+/Users/bkila/Desktop/RESTauranter/bin/Debug/netcoreapp1.1/RESTauranter.dll
+/Users/bkila/Desktop/RESTauranter/bin/Debug/netcoreapp1.1/RESTauranter.pdb
+/Users/bkila/Desktop/RESTauranter/obj/Debug/netcoreapp1.1/RESTauranter.dll
+/Users/bkila/Desktop/RESTauranter/obj/Debug/netcoreapp1.1/RESTauranter.pdb
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\bin\Debug\netcoreapp1.1\RESTauranteer.deps.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\bin\Debug\netcoreapp1.1\RESTauranteer.runtimeconfig.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\bin\Debug\netcoreapp1.1\RESTauranteer.runtimeconfig.dev.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\bin\Debug\netcoreapp1.1\RESTauranteer.dll
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\bin\Debug\netcoreapp1.1\RESTauranteer.pdb
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\obj\Debug\netcoreapp1.1\RESTauranteer.AssemblyInfo.cs
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\obj\Debug\netcoreapp1.1\RESTauranteer.dll
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\RESTauranteer-master\obj\Debug\netcoreapp1.1\RESTauranteer.pdb
